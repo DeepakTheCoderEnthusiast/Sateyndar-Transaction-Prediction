@@ -1,0 +1,14 @@
+For Python :
+1. Change the directory accordingly  and have both the data file train and test ready
+2. Run the file .py extension in one go using jupyter or any other software supporting .py extension file
+
+For R Code :
+1. Change the directory accordingly  and have both the data file train and test ready
+2. Run the file .r extension using ctrl + Alt + R
+
+Output for Python :
+1. predictions_using Python file for output file
+
+
+
+
